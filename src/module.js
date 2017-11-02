@@ -108,7 +108,6 @@ module.exports = {
         'switch-default': true,
         'template-to-ng-template': true,
         'templates-no-negated-async': true,
-        'templates-use-public': true,
         'trailing-comma': [ true, { multiline: 'never', singleline: 'never' } ],
         'triple-equals': true,
         'typedef-whitespace': [
