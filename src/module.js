@@ -104,7 +104,6 @@ module.exports = {
         'semicolon': [ true, 'always' ],
         'space-before-function-paren': true,
         'switch-default': true,
-        'template-to-ng-template': true,
         'templates-no-negated-async': true,
         'trailing-comma': [ true, { multiline: 'never', singleline: 'never' } ],
         'triple-equals': true,
