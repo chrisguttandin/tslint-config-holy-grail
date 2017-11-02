@@ -50,7 +50,6 @@ module.exports = {
         'indent': [ true, 'spaces' ],
         'interface-name': [ true, 'always-prefix' ],
         'interface-over-type-literal': true,
-        'invoke-injectable': true,
         'label-position': true,
         'max-line-length': [ true, 140 ],
         'member-access': true,
