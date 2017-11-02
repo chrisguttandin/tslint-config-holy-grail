@@ -57,7 +57,6 @@ module.exports = {
         'member-ordering': [ true, { order: 'instance-sandwich' } ],
         'new-parens': true,
         'newline-before-return': true,
-        'no-access-missing-member': true,
         'no-arg': true,
         'no-attribute-parameter-decorator': true,
         'no-bitwise': true,
