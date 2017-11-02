@@ -73,7 +73,7 @@ module.exports = {
         'no-invalid-this': true,
         'no-irregular-whitespace': true,
         'no-misused-new': true,
-        'no-on-prefix-output-name': true,
+        'no-output-on-prefix-name': true,
         'no-output-rename': true,
         'no-parameter-reassignment': true,
         'no-reference': true,
