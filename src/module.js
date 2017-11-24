@@ -44,7 +44,13 @@ module.exports = {
         'directive-class-suffix': true,
         'eofline': true,
         'forin': true,
-        'import-blacklist': [ true, '@angular/http', '@angular/http/*', 'lodash-es', 'rxjs', 'rxjs/Rx', 'rxjs/add/*', 'rxjs/operators/*' ],
+        'import-blacklist': [
+            true,
+            '@angular/http',
+            'lodash-es',
+            'rxjs',
+            'rxjs/Rx'
+        ],
         'import-destructuring-spacing': true,
         'import-spacing': true,
         'indent': [ true, 'spaces' ],
