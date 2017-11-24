@@ -93,6 +93,7 @@ module.exports = {
             '@angular/core/testing',
             '@angular/platform-browser/animations',
             '@angular/platform-browser-dynamic/testing',
+            '@angular/router/testing',
             '@ngrx/effects/testing',
             'angulartics2/ga',
             'core-js/es6/reflect',
