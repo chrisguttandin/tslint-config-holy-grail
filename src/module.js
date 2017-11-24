@@ -115,6 +115,7 @@ module.exports = {
             'rxjs/Subscription',
             'rxjs/observable',
             'rxjs/operators',
+            'rxjs/scheduler',
             'zone.js/dist'
         ],
         'no-switch-case-fall-through': true,
