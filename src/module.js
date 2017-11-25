@@ -57,6 +57,7 @@ module.exports = {
         'interface-name': [ true, 'always-prefix' ],
         'interface-over-type-literal': true,
         'label-position': true,
+        'max-classes-per-file': [ true, 1 ],
         'max-line-length': [ true, 140 ],
         'member-access': true,
         'member-ordering': [ true, { order: 'instance-sandwich' } ],
