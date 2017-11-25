@@ -79,6 +79,7 @@ module.exports = {
         'no-forward-ref': true,
         'no-inferrable-types': true,
         'no-input-rename': true,
+        'no-internal-module': true,
         'no-invalid-this': true,
         'no-irregular-whitespace': true,
         'no-misused-new': true,
