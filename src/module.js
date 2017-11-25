@@ -88,6 +88,7 @@ module.exports = {
         'no-output-rename': true,
         'no-parameter-reassignment': true,
         'no-reference': true,
+        'no-reference-import': true,
         'no-require-imports': true,
         'no-shadowed-variable': true,
         'no-string-literal': false,
