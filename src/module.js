@@ -141,6 +141,7 @@ module.exports = {
         'ordered-imports': [ true, { 'named-imports-order': 'lowercase-last' } ],
         'pipe-impure': true,
         'prefer-const': true,
+        'prefer-for-of': true,
         'prefer-function-over-method': [ true, 'allow-public', 'allow-protected' ],
         'prefer-method-signature': true,
         'prefer-template': true,
