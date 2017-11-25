@@ -71,6 +71,7 @@ module.exports = {
         'no-console': true,
         'no-construct': true,
         'no-debugger': true,
+        'no-default-export': true,
         'no-duplicate-super': true,
         'no-empty': true,
         'no-empty-interface': true,
