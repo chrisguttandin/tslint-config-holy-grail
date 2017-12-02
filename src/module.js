@@ -123,6 +123,7 @@ module.exports = {
             'rxjs/observable',
             'rxjs/operators',
             'rxjs/scheduler',
+            'rxjs/symbol',
             'zone.js/dist'
         ],
         'no-switch-case-fall-through': true,
