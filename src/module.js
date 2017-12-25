@@ -45,6 +45,7 @@ module.exports = {
         'decorator-not-allowed': true,
         'deprecation': true,
         'directive-class-suffix': true,
+        'encoding': true,
         'eofline': true,
         'forin': true,
         'import-blacklist': [
