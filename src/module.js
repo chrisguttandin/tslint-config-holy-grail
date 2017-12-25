@@ -90,6 +90,7 @@ module.exports = {
         'no-reference': true,
         'no-reference-import': true,
         'no-require-imports': true,
+        'no-return-await': true,
         'no-shadowed-variable': true,
         'no-string-literal': false,
         'no-string-throw': true,
