@@ -32,6 +32,7 @@ module.exports = {
         'array-type': [ true, 'array' ],
         'arrow-parens': true,
         'arrow-return-shorthand': true,
+        'await-promise': true,
         'ban-comma-operator': true,
         'ban-types': [ true, [ 'OpaqueToken', 'Use InjectionToken instead.' ] ],
         'banana-in-box': true,
