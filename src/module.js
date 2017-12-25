@@ -42,6 +42,7 @@ module.exports = {
         'contextual-life-cycle': true,
         'curly': true,
         'decorator-not-allowed': true,
+        'deprecation': true,
         'directive-class-suffix': true,
         'eofline': true,
         'forin': true,
