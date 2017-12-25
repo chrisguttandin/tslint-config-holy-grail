@@ -73,6 +73,7 @@ module.exports = {
         'no-construct': true,
         'no-debugger': true,
         'no-default-export': true,
+        'no-duplicate-imports': true,
         'no-duplicate-super': true,
         'no-empty': true,
         'no-empty-interface': true,
@@ -130,6 +131,7 @@ module.exports = {
             'zone.js/dist'
         ],
         'no-switch-case-fall-through': true,
+        'no-this-assignment': [ true, { 'allow-destructuring': true } ],
         'no-trailing-whitespace': true,
         'no-unnecessary-initializer': true,
         'no-unsafe-finally': true,
