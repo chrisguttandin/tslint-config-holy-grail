@@ -77,6 +77,7 @@ module.exports = {
         'no-empty-interface': true,
         'no-eval': true,
         'no-forward-ref': true,
+        'no-implicit-dependencies': true,
         'no-inferrable-types': true,
         'no-input-rename': true,
         'no-internal-module': true,
