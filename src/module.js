@@ -96,6 +96,7 @@ module.exports = {
         'no-require-imports': true,
         'no-return-await': true,
         'no-shadowed-variable': true,
+        'no-sparse-arrays': true,
         'no-string-literal': false,
         'no-string-throw': true,
         'no-submodule-imports': [
