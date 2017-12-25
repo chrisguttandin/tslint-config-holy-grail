@@ -170,7 +170,6 @@ module.exports = {
                 'variable-declaration': 'onespace'
             }
         ],
-        'typeof-compare': true,
         'unified-signatures': true,
         'use-host-property-decorator': true,
         'use-input-property-decorator': true,
