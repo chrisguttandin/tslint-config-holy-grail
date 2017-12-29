@@ -51,6 +51,7 @@ module.exports = {
         'import-blacklist': [
             true,
             '@angular/http',
+            'core-js',
             'lodash-es',
             'rxjs',
             'rxjs/Rx'
@@ -110,8 +111,6 @@ module.exports = {
             '@angular/router/testing',
             '@ngrx/effects/testing',
             'angulartics2/ga',
-            'core-js/es6/reflect',
-            'core-js/es7/reflect',
             'lodash-es',
             'regenerator-runtime/runtime',
             'rxjs/AsyncSubject',
