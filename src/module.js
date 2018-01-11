@@ -80,6 +80,7 @@ module.exports = {
         'no-default-export': true,
         'no-duplicate-imports': true,
         'no-duplicate-super': true,
+        'no-dynamic-delete': true,
         'no-empty': true,
         'no-empty-interface': true,
         'no-eval': true,
