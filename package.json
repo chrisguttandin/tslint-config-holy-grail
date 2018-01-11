@@ -40,7 +40,7 @@
   "main": "src/module.js",
   "name": "tslint-config-holy-grail",
   "peerDependencies": {
-    "tslint": ">=5.8.0"
+    "tslint": ">=5.9.1"
   },
   "repository": {
     "type": "git",
