@@ -93,6 +93,7 @@ module.exports = {
         'no-irregular-whitespace': true,
         'no-misused-new': true,
         'no-namespace': true,
+        'no-output-named-after-standard-event': true,
         'no-output-on-prefix': true,
         'no-output-rename': true,
         'no-parameter-reassignment': true,
