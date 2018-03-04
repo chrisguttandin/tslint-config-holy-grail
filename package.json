@@ -3,6 +3,11 @@
   "bugs": {
     "url": "https://github.com/chrisguttandin/tslint-config-holy-grail/issues"
   },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
   "dependencies": {
     "@angular/common": "^5.2.7",
     "@angular/compiler": "^5.2.7",
