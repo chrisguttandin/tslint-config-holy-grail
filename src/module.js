@@ -163,6 +163,7 @@ module.exports = {
         'quotemark': [ true, 'single', 'avoid-escape' ],
         'radix': true,
         'rxjs-no-deep-operators': true,
+        'rxjs-no-unsafe-switchmap': true,
         'semicolon': [ true, 'always' ],
         'space-before-function-paren': true,
         'switch-default': true,
