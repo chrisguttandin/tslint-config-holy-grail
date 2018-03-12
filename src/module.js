@@ -26,6 +26,9 @@ const resolve = () => {
 };
 
 module.exports = {
+    extends: [
+        'rxjs-tslint-rules'
+    ],
     rules: {
         'adjacent-overload-signatures': true,
         'angular-whitespace': [ true, 'check-interpolation', 'check-pipe', 'check-semicolon' ],
@@ -159,6 +162,7 @@ module.exports = {
         'prefer-template': true,
         'quotemark': [ true, 'single', 'avoid-escape' ],
         'radix': true,
+        'rxjs-no-deep-operators': true,
         'semicolon': [ true, 'always' ],
         'space-before-function-paren': true,
         'switch-default': true,
