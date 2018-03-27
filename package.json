@@ -15,7 +15,7 @@
     "@angular/platform-browser": "^5.2.9",
     "@angular/platform-browser-dynamic": "^5.2.9",
     "codelyzer": "^4.2.1",
-    "rxjs": "^5.5.7",
+    "rxjs": "^5.5.8",
     "rxjs-tslint-rules": "^3.15.0",
     "zone.js": "^0.8.20"
   },
