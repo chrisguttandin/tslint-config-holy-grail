@@ -17,7 +17,7 @@
     "codelyzer": "^4.2.1",
     "rxjs": "^5.5.8",
     "rxjs-tslint-rules": "^3.16.0",
-    "zone.js": "^0.8.21"
+    "zone.js": "^0.8.22"
   },
   "description": "This is just my personal tslint configuration.",
   "devDependencies": {
