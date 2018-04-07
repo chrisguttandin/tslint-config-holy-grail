@@ -16,7 +16,7 @@
     "@angular/platform-browser-dynamic": "^5.2.9",
     "codelyzer": "^4.2.1",
     "rxjs": "^5.5.8",
-    "rxjs-tslint-rules": "^3.16.1",
+    "rxjs-tslint-rules": "^3.17.0",
     "zone.js": "^0.8.25"
   },
   "description": "This is just my personal tslint configuration.",
