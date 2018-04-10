@@ -168,6 +168,7 @@ module.exports = {
         'semicolon': [ true, 'always' ],
         'space-before-function-paren': true,
         'switch-default': true,
+        'template-conditional-complexity': true,
         'templates-no-negated-async': true,
         'trailing-comma': [ true, { multiline: 'never', singleline: 'never' } ],
         'triple-equals': true,
