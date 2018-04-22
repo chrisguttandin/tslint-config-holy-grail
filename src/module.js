@@ -76,6 +76,7 @@ module.exports = {
         'no-attribute-parameter-decorator': true,
         'no-bitwise': true,
         'no-conditional-assignment': true,
+        'no-conflicting-life-cycle-hooks': true,
         'no-consecutive-blank-lines': true,
         'no-console': true,
         'no-construct': true,
