@@ -18,7 +18,7 @@
         "tslint-etc": "^1.13.10",
         "zone.js": "^0.11.8"
     },
-    "description": "This is just my personal tslint configuration.",
+    "description": "This is my personal tslint configuration.",
     "devDependencies": {
         "@commitlint/cli": "^17.1.2",
         "@commitlint/config-angular": "^17.1.0",
