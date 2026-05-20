@@ -20,7 +20,7 @@
     },
     "description": "This is my personal tslint configuration.",
     "devDependencies": {
-        "@commitlint/cli": "^20.5.2",
+        "@commitlint/cli": "^21.0.1",
         "@commitlint/config-angular": "^20.5.0",
         "chai": "^4.3.10",
         "commitizen": "^4.3.1",
