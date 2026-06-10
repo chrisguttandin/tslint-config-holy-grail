@@ -13,7 +13,7 @@ describe('tslint-config-holy-grail', () => {
     });
 
     it('should lint a dummy file', () => {
-        linter.lint('test/fixtures/dummy.ts', '', configuration);
+        linter.lint('test/fixtures/dummy.tsx', '', configuration);
 
         const failures = linter.getResult().failures;
 
