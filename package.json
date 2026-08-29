@@ -45,6 +45,7 @@
     "license": "MIT",
     "main": "src/module.js",
     "name": "tslint-config-holy-grail",
+    "packageManager": "npm@12",
     "peerDependencies": {
         "tslint": "^6.1.3"
     },
